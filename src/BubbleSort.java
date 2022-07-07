@@ -1,10 +1,8 @@
-import java.lang.reflect.Array;
-import java.util.ArrayList;
 import java.util.Arrays;
 
 // We keep swapping to keep max element at its right index
 
-public class BubbleSorting {
+public class BubbleSort {
     public static void main(String[] args) {
         int arr[] = {-1,9,-2};
         bubbleSort(arr);
