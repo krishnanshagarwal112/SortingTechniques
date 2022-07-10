@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class InsertionSort {
     // FOR EVERY INDEX, PUT THE INDEX ELEMENT AT THE CORRECT PLACE ON LHS
 
-    
+
     // Q) WHY INSERTION SORT IS USED ?
     // A) 1) NUMBER OF SWAPS REDUCED AS COMPARED TO BUBBLE SORT
     //    2) IT IS STABLE SORTING ALGO
